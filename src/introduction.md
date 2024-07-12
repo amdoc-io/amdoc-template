@@ -1,7 +1,3 @@
-Sure! Here is a template for developer documentation using Lorem Ipsum text in Markdown format. This template covers sections typically found in developer documentation, such as Introduction, Installation, Usage, API Reference, and Contributing.
-
-### Project Name: Lorem Ipsum API
-
 ## Introduction
 
 Welcome to the Lorem Ipsum API documentation. This API allows you to generate placeholder text for your applications.
